@@ -1,3 +1,4 @@
+![grains](https://user-images.githubusercontent.com/44240533/226492162-92285a6c-719a-4780-ae09-a1a9112dd448.svg)
 # Grains
 
 Welcome to Grains on Exercism's Java Track.
